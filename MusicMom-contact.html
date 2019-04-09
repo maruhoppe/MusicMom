@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="Mom-contact.css" type="text/css">
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="images/icon.ico" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Momエレクトーン＆ピアノ教室</title>
+    <script src="https://sdk.form.run/js/v2/formrun.js"></script>
+  </head>
+  <body>
+    <header>
+      <p>(株)ヤマハミュージックリテイリング千里店所属<br>jet全日本エレクトーン指導者協会会員</p>
+        <p class="trial-btn">体験レッスン<br class="break">受付中♪</a>
+      <div class="header-logo">
+        <img src="images/417164.2.jpg">
+        <h3>Music Mom エレクトーン&ピアノ教室</h3>
+      </div>
+      <div class="link-wrapper">
+        <a class="link top" href="MusicMom-top.html">トップ</a>
+        <a class="link introduction line" href="MusicMom-introduce.html" target="_self">講師紹介</a>
+        <a class="link event line" href="MusicMom-ivent.html">イベント</a>
+        <a class="link inquiry line" href="MusicMom-contact.html">お問い合わせ</a>
+      </div>
+    </header>
+    <div class="clear"></div>
+    <div class="main-container">
+    <div class="main-wrapper">
+      <h1>お問い合わせはこちらから</h1>
+      <p>無料体験レッスンは随時受け付けております！<br>日時などのご相談にも応じますので、お気軽にお問い合わせください♪♪</p>
+      <!-- class, action, methodを変更しないでください -->
+  <form class="formrun" action="https://form.run/api/v1/r/7mlthtc6ld7oz7fz0gstxon8" method="post">
+    <!-- ↓自由に要素を追加・編集することができます -->
+    <div>
+      <label>お名前</label>
+      <input name="お名前" type="text" id="name">
+    </div>
+    <div>
+      <label>メールアドレス [必須]</label>
+      <input name="メールアドレス" type="text" data-formrun-type="email" data-formrun-required id="adress">
+      <div data-formrun-show-if-error="メールアドレス">メールアドレスを正しく入力してください</div>
+    </div>
+    <div>
+      <lavel>体験レッスンを希望[任意]</lavel>
+      <input type="checkbox" id="check">
+      </div>
+    <div>
+      <label id="contact">お問い合わせ [必須]</label>
+      <textarea data-formrun-required id="contact-area"></textarea>
+      <div data-formrun-show-if-error="お問い合わせ">お問い合わせ入力してください</div>
+    </div>
+
+    <!-- ボット投稿をブロックするためのタグ -->
+    <div class="_formrun_gotcha">
+      <style media="screen">._formrun_gotcha {position:absolute!important;height:1px;width:1px;overflow:hidden;}</style>
+      <label for="_formrun_gotcha">If you are a human, ignore this field</label>
+      <input type="text" name="_formrun_gotcha" id="_formrun_gotcha" tabindex="-1">
+    </div>
+
+    <button type="submit" id="submit" data-formrun-error-text="未入力の項目があります" data-formrun-submitting-text="送信中...">送信</button>
+    <p id="text">お問い合わせを確認し次第こちらより返信させていただきます。<br>五日以内にこちらからの連絡がない場合は、再度お願い致します。</p>
+  </form>
+
+     </div>
+    </div>
+   <footer>
+     <div class="footer-container">
+        <img class="footer-pic" src="images/079011.jpg">
+       <div class="footer-logo">Music Momエレクトーン＆ピアノ教室</div>
+     </div>
+   </footer>
+  </body>
+</html>

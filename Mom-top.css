@@ -128,8 +128,8 @@ color: black;
   border-radius: 10px;
   display:block;
   width:51%;
-  padding:5px 10px;
-  margin:15px 20px 30px 20px;
+  padding:5px 15px;
+  margin:15px 20px 15px 20px;
   opacity:0.9;
   text-align:left;
 }

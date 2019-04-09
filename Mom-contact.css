@@ -108,13 +108,19 @@ z-index: 5;
 
  h1{
    margin-top:80px;
+   margin-left:30px;
    border-bottom:dashed 4px red;
    width:40%;
    opacity:0.7;
  }
 
+p{
+  margin-left:20px;
+}
+
 form{
   float:left;
+  margin-left:30px;
   width:60%;
   padding:9px 2px;
   background-color:#ffe4e1;

@@ -207,8 +207,8 @@ header p{
 
 .header-logo h3{
   width:100%;
-  font-size:18px;
-  margin-left:5px;
+  font-size:20px;
+  margin-left:10px;
   margin-bottom:5px;
 }
 .break{
@@ -217,19 +217,20 @@ header p{
 
 .trial-btn{
   float:right;
-  margin:5px 0 0 3px;
+  margin:5px 0 0 12px;
   padding:2px 4px;
   width:25%;
-  font-size:10px;
+  font-size:11px;
   letter-spacing: 1px;
   text-align:center;
 }
 
 .header-logo img{
   float:right;
-  width:45%;
+  width:40%;
   height:40px;
   position: static;
+  margin-right:20px;
 }
 
 .link-wrapper{
@@ -240,11 +241,11 @@ header p{
 
 .link{
   font-size:9px;
-  margin-left:5px;
+  margin-left:10px;
   margin-top:3px;
   margin-bottom:0;
   padding:0;
-  height:2px;
+  height:24px;
   border:none;
   width:23%;
 }

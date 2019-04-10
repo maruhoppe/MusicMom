@@ -142,22 +142,17 @@ form{
 }
 
 #contact{
-  float:left;
+  margin-bottom:15px;
+height:70px;
 }
 
 textarea{
-  float:left;
   height:70px;
   width:350px;
 }
 
 #submit{
-  float:left;
-  margin-top:30px;
-}
-
-#text{
-  float:left;
+  margin-top:5px;
 }
 
  footer{
@@ -270,14 +265,8 @@ form{
   display:block;
 }
 
- #submit{
-   position:absolute;
-   top:425px;
-  float:left;
-}
-
 #text{
-  margin-top:60px;
+  margin-top:30px;
   width:100%;
 }
 

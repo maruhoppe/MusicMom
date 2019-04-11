@@ -203,6 +203,7 @@ display:block;
 header p{
   font-size:8.5px;
   position:static;
+  width:70%;
 }
 
 .header-logo h3{
@@ -236,7 +237,7 @@ header p{
   height:20px;
   position: static;
   margin-right:10px;
-  margin-top:60px;
+  margin-top:45px;
 }
 
 .link-wrapper{

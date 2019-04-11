@@ -215,6 +215,8 @@ header p{
   font-weight:650;
   line-height:22px;
   letter-spacing:4.5px;
+  float:left;
+  
 }
 .break{
   display: inline-block;
@@ -235,7 +237,7 @@ header p{
   width:33%;
   height:36px;
   position: static;
-  margin-right:70px;
+  margin-right:60px;
 }
 
 .link-wrapper{

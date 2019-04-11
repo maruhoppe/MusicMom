@@ -207,14 +207,14 @@ header p{
 }
 
 .header-logo h3{
-  width:100%;
-  font-size:19px;
+  width:70%;
+  font-size:18px;
   margin-left:10px;
   margin-bottom:5px;
   padding:0;
-  font-weight:650;
+  font-weight:500;
   line-height:22px;
-  letter-spacing:4.5px;
+  letter-spacing:4px;
   
 }
 .break{
@@ -233,10 +233,10 @@ header p{
 
 .header-logo img{
   float:right;
-  width:33%;
-  height:36px;
+  width:20%;
+  height:20px;
   position: static;
-  margin-right:60px;
+  margin-right:10px;
 }
 
 .link-wrapper{

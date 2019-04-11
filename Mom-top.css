@@ -220,7 +220,7 @@ header p{
 
 .trial-btn{
   float:right;
-  margin:5px 0 0 12px;
+  margin:3px  12px 0 0;
   padding:2px 4px;
   width:25%;
   font-size:11px;
@@ -230,10 +230,10 @@ header p{
 
 .header-logo img{
   float:right;
-  width:40%;
-  height:44px;
+  width:33%;
+  height:36px;
   position: static;
-  margin-right:20px;
+  margin-right:25px;
 }
 
 .link-wrapper{

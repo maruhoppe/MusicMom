@@ -203,7 +203,6 @@ display:block;
 header p{
   font-size:8.5px;
   position:static;
-　margin-bottom:5px;
 }
 
 .header-logo h3{
@@ -211,7 +210,7 @@ header p{
   font-size:18px;
   margin-left:10px;
   margin-bottom:5px;
-  padding:0;
+  padding:5px 0 0 0;
   font-weight:500;
   line-height:22px;
   letter-spacing:2px;

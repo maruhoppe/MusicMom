@@ -269,9 +269,8 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 
 
 .main-wrapper img{
-  width:70%;
-margin:auto;
-  clear:left;
+  width:60%;
+margin-left:40px;
 }
 
 footer{

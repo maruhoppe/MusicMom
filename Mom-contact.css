@@ -219,21 +219,21 @@ textarea{
    }
 
    .link-wrapper{
-     height:25px;
-     width:100%;
-     display:block;
-   }
+  display:block;
+  height:25px;
+  width:100%;
+}
 
-   .link{
-     font-size:9px;
-     margin-left:5px;
-     margin-top:3px;
-     margin-bottom:0;
-     padding:0;
-     height:2px;
-     border:none;
-     width:23%;
-   }
+.link{
+  font-size:9px;
+  margin-left:12px;
+  margin-top:1px;
+  margin-bottom:0;
+  padding:0;
+  height:24px;
+  border:none;
+  width:20%;
+}
 
    .main-container{
      background-size: contain;

@@ -139,6 +139,11 @@ color: black;
 background-color:#ffefd5;
 }
 
+#grade{
+　text-decoration:none; 
+  color:ff6347;
+}
+
 .schedule{
   float:right;
 background-color:#f0ffff;

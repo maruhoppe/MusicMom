@@ -139,9 +139,9 @@ color: black;
 background-color:#ffefd5;
 }
 
-#grade{
+.grade{
 　text-decoration:none; 
-  color:ff6347;
+  color:#ff6347;
 }
 
 .schedule{

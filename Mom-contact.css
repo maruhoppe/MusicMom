@@ -239,9 +239,13 @@ textarea{
      background-size: contain;
    }
 
+   .main-wrapper{
+   margin-top:1px;
+   }
+   
 .main-wrapper p{
   font-size:11px;
-  margin-top:1px;
+  margin-top:5px;
 }
 
  h1{

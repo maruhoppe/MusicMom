@@ -128,15 +128,15 @@ color: black;
   border-radius: 10px;
   display:block;
   width:55%;
-  padding:5px 15px;
-  margin:15px 20px 15px 20px;
+  padding:5px 13px;
+  margin:13px 17px 13px 17px;
   opacity:0.9;
   text-align:left;
 }
 
 .lesson{
   float:left;
-  width:67%;
+  width:65%;
 background-color:#ffefd5;
 }
 
@@ -167,7 +167,7 @@ background-color:#f0fff0;
 .image-one{
   float:right;
   width:25%;
-  margin-right:5%;
+  margin-right:3%;
   display:block;
   border-radius:10px;
   border:12px dotted #ffff99;

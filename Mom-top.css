@@ -108,6 +108,7 @@ color: black;
   background-repeat: repeat;
   color: #8b0000;
   overflow: hidden;
+  letter-spacing:0.7px;
 }
 
 .main-heading{

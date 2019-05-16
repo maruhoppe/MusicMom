@@ -154,12 +154,14 @@ background-color:#f0ffff;
 .lesson-fee{
   float:left;
 background-color:#faebd7;
-  width:30%;
+  width:25%;
+  margin-left:35px;
 }
 
 .acsess{
   float:right;
 background-color:#f0fff0;
+  margin-light:25px;
 }
 
 .main-wrapper h4{

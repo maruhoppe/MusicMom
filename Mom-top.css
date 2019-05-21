@@ -24,7 +24,10 @@ header p{
 }
 
 .tel{
- border-bottom:1px solid silver; 
+   font-size:13px;
+  font-weight: 500;
+  float:left;
+  margin-left:10px;
 }
 
 .header-logo h3{

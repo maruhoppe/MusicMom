@@ -23,6 +23,10 @@ header p{
   margin-left:10px;
 }
 
+.tel{
+ border-bottom:1px solid silver; 
+}
+
 .header-logo h3{
 padding-top: 70px;
 color: #660000;

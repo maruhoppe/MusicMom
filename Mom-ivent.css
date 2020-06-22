@@ -249,6 +249,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   background-image: none;
   background-size: contain;
   background-repeat: repeat;
+  background-color: #FFFFF0;
   color: #8b0000;
 }
 
@@ -275,6 +276,10 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   margin-bottom:3px;
 }
 
+  .concert2019 img{
+  width:50%;
+}
+  
 footer{
   height:30px;
 }

@@ -105,6 +105,22 @@ color: black;
   transition: 0.5s;
 }
 
+.corona-btn{
+  float:right;
+  font-size:10px;
+  color: black;
+  padding: 5px 10px;
+  display: block;
+  margin: 5px 5px;
+ border: 4px red ;
+}
+
+.corona-btn:hover{
+  cursor: pointer;
+  color: #696969;
+  border: #FF4F50;
+}
+
 .clear{
   clear: left;
 }

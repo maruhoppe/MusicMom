@@ -44,11 +44,10 @@ background: linear-gradient(to left, rgb(255, 186, 115), #ffb2b2);
 
 .header-logo img{
   float:right;
-  position: absolute;
-  top: 28px;
+  position:absolute;
+  top: 30px;
   right:280px;
-  width: 300px;
-  height:120px;
+  width: 20%;
 }
 
 .link-wrapper{
@@ -173,6 +172,13 @@ font-size: 20px;
 letter-spacing: 3px;
   color: #ff6938;
 font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO";
+}
+
+@media(max-width:910px){
+
+ .header-logo img{
+    display: none;
+  }
 }
 
 @media(max-width:670px){

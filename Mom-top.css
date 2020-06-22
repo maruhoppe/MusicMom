@@ -235,6 +235,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
     width:100%;
     font-size:17px;
     letter-spacing:3px;
+    padding-top: 18px;
     margin-top:0px;
     margin-left:5px;
     margin-bottom:5px;
@@ -284,7 +285,6 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 
 .main-wrapper{
   width:100%;
-  background-image:url(images/1339969.jpg);
   background-size: contain;
   background-repeat: repeat;
   color: #8b0000;

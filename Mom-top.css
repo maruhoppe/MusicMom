@@ -56,8 +56,7 @@ background: linear-gradient(to left, rgb(255, 186, 115), #ffb2b2);
 .header-logo img{
   float:right;
   position:absolute;
-  top: 30px;
-  right:280px;
+  right: 25%;
   width: 20%;
 }
 

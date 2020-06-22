@@ -186,38 +186,41 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 
   header{
   height:40px;
+   border: none;
   }
 
   header p{
-    font-size:8.5px;
+    font-size:6px;
     position:static;
   }
 
   .header-logo h3{
     width:100%;
-    font-size:18px;
+    font-size:17px;
+    letter-spacing:3px;
+    padding-top: 12px;
+    float: left;
+    margin-top:0px;
     margin-left:5px;
     margin-bottom:5px;
+    border: none;
   }
   .break{
     display: inline-block;
   }
-
-    .telefont{
+  
+  .telefont{
   font-size:9px;
+  float:right;
   color:#4682B4;
     border-bottom:none;
+    margin-top:3px;
   }
 
-  .non{
-  display:none;
-  }
-  
-  
   .trial-btn{
     float:right;
-    margin:5px 0 0 3px;
-    padding:2px 4px;
+    margin:4px 0 0 3px;
+    padding:3px 3px;
     width:25%;
     font-size:10px;
     letter-spacing: 1px;
@@ -225,10 +228,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   }
 
   .header-logo img{
-    float:right;
-    width:45%;
-    height:40px;
-    position: static;
+  
   }
 
   .link-wrapper{
@@ -253,7 +253,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   margin-left:0;
   margin-top:1px;
   width:100%;
-  background-image:url(images/1339969.jpg);
+  background-image:none;
   background-size: contain;
   background-repeat: repeat;
   color: #8b0000;

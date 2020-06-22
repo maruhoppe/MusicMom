@@ -223,7 +223,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 @media(max-width:670px){
 
  header{
-  height:40px;
+  height:28px;
   }
 
   header p{
@@ -235,7 +235,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
     width:100%;
     font-size:17px;
     letter-spacing:3px;
-    padding-top: 18px;
+    padding-top: 10px;
     margin-top:0px;
     margin-left:5px;
     margin-bottom:5px;
@@ -285,8 +285,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 
 .main-wrapper{
   width:100%;
-  background-size: contain;
-  background-repeat: repeat;
+ background-color: clear;
   color: #8b0000;
   height:970px;
   margin:0;

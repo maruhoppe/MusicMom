@@ -226,7 +226,7 @@ textarea{
   }
 
   .header-logo img{
-  
+    display: none;
   }
 
    .link-wrapper{

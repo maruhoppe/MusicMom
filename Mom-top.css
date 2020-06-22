@@ -247,7 +247,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   
   .telefont{
   font-size:9px;
-  float:left;
+  float:right;
   color:#4682B4;
     border-bottom:none;
     margin-top:3px;

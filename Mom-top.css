@@ -239,7 +239,6 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 @media(max-width:670px){
 
  header{
-  height:40px;
    border: none;
   }
 
@@ -282,10 +281,10 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   }
 
     .corona-btn{
+    position: relative;
     float:right;
     margin:4px 0 0 3px;
-    padding:3px 3px;
-    width:30%;
+    width:35%;
     font-size:9px;
   }
   

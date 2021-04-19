@@ -116,8 +116,8 @@ p{
 }
 
 form{
-  float:left;
-  margin-left:30px;
+  margin-left:20px;
+  margin-bottom:20px;
   width:55%;
   padding:9px 2px;
   background-color:#ffe4e1;

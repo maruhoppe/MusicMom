@@ -115,18 +115,24 @@ color: black;
 }
 
 .cristmasparty2020 img{
-margin-top:20px;
-  margin-bottom:20px;
+width:20%;
+  margin:10px 28px 10px 28px;
+  border-radius: 10px;
+  border: 8px dotted #3cb371;
 }
 
 .dokidoki img{
-margin-top:20px;
-  margin-bottom:20px;
+width:20%;
+  margin:10px 28px 10px 28px;
+  border-radius: 10px;
+  border: 8px dotted #3cb371;
 }
 
 .soundcarnival2020 img{
-margin-top:20px;
-  margin-bottom:20px;
+width:20%;
+  margin:10px 28px 10px 28px;
+  border-radius: 10px;
+  border: 8px dotted #3cb371;
 }
 
 .jeslinpic{

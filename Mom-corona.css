@@ -203,6 +203,7 @@ z-index: 5;
   display:block;
   height:25px;
   width:100%;
+  border:none;
 }
 
 .link{

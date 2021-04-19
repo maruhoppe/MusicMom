@@ -382,6 +382,18 @@ display:none;
   margin:8px  0 0 3px;
   font-size:12px;
   letter-spacing: 2px;
+} 
 }
 
+@media(max-width:670px)｛
+ 
+header p{
+font-size:6px;
 }
+
+.tel {
+    font-size: 8px;
+    float: left;
+}
+  
+  ｝

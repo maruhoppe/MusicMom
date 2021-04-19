@@ -101,11 +101,10 @@ color: black;
 
 .main-wrapper{
   width:100%;
-  height:850px;
-  margin-top:25px;
+  margin-bottom:25px;
   text-align:center;
   background-image:url(images/1339969.jpg);
-  background-size: cover;
+  background-size: 1200px 800px;
   background-repeat: repeat;
   color: #8b0000;
 }
@@ -115,14 +114,14 @@ color: black;
 }
 
 .cristmasparty2020 img{
-width:20%;
+width:30%;
   margin:10px 28px 10px 28px;
   border-radius: 10px;
   border: 8px dotted #3cb371;
 }
 
 .dokidoki img{
-width:20%;
+width:30%;
   margin:10px 28px 10px 28px;
   border-radius: 10px;
   border: 8px dotted #3cb371;
@@ -132,7 +131,6 @@ width:20%;
 width:20%;
   margin:10px 28px 10px 28px;
   border-radius: 10px;
-  border: 8px dotted #3cb371;
 }
 
 .jeslinpic{

@@ -135,7 +135,7 @@ width:20%;
 
 .jeslinpic{
 margin-top:20px;
-  margin-bottom:20px;
+  margin-bottom:40px;
 }
 
 .cristmasparty img{
@@ -273,7 +273,6 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 
 .main-wrapper{
   position:static;
-  height:410px;
   width:100%;
   margin-top:0;
   background-image: none;

@@ -248,7 +248,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   }
 
   .header-logo h3{
-    width:75%;
+    width:100%;
     font-size:17px;
     letter-spacing:3px;
     padding-top: 12px;
@@ -286,10 +286,6 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
     margin:4px 0 0 3px;
     width:35%;
     font-size:9px;
-  }
-  
-  .header-logo img{
-    display: none;
   }
 
   .header-logo h3{

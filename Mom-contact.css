@@ -96,6 +96,9 @@ z-index: 5;
 
 .main-wrapper{
   width:100%;
+  background-image: url(images/1339969.jpg);
+    background-size: 1200px 800px;
+    background-repeat: repeat;
   color: #8b0000;
   z-index:1;
 }

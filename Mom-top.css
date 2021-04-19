@@ -324,6 +324,10 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 
 }
 
+  .main-wrapper p{
+  padding:3px;
+  }
+  
 .main-heading{
   margin:auto;
   position:relative;

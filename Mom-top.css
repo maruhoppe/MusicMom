@@ -281,11 +281,11 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   }
 
     .corona-btn{
-    position: relative;
-    float:right;
-    margin:4px 0 0 3px;
-    width:45%;
-    font-size:9px;
+    float: left;
+    margin: 4px 0 0 3px;
+    width: 45%;
+    font-size: 9px;
+    color: slategrey;
   }
 
   .header-logo h3{

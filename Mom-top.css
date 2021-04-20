@@ -271,8 +271,8 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
 
   .trial-btn{
     float:right;
-    margin:4px 0 0 3px;
-    padding:3px 3px;
+    margin:2px 0 0 3px;
+    padding:2px 2px;
     width:25%;
     font-size:10px;
     letter-spacing: 1px;
@@ -280,7 +280,7 @@ font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru 
   }
 
     .corona-btn{
-    float: left;
+    float: right;
     margin: 4px 0 0 3px;
     width: 45%;
     font-size: 9px;
